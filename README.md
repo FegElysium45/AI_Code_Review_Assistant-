@@ -226,12 +226,12 @@ cat output/review_results.json
 MIT
 
 ---
-
+** Designed for containerized deployment via Docker to integrate with enterprise orchestration layers like  n8n or AWS Lambda" will perfectly bridge your project to the "Full Architecture" we discussed.**
 ## Contributing
 
 PRs welcome. See `CONTRIBUTING.md` for guidelines.
 ```
-** Designed for containerized deployment via ## Docker ## to integrate with enterprise orchestration layers like ## n8n ## or AWS Lambda" will perfectly bridge your project to the "Full Architecture" we discussed.**
+
 ---
 
 ### **2. requirements.txt**
